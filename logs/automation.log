@@ -1,0 +1,30 @@
+20:24:00.498 [main] INFO  testCases.TC001_AccntRegTest - *** Starting the automation***
+20:24:01.128 [main] INFO  testCases.TC001_AccntRegTest - Clicked on Myaccount
+20:24:01.844 [main] INFO  testCases.TC001_AccntRegTest - Clicked on registerlink
+20:24:01.848 [main] INFO  testCases.TC001_AccntRegTest - Providing customer details
+20:24:04.276 [main] INFO  testCases.TC001_AccntRegTest - Validating expected msg
+20:29:18.421 [main] INFO  testCases.TC001_AccntRegTest - *** Starting the automation***
+20:29:28.187 [main] INFO  testCases.TC001_AccntRegTest - Clicked on Myaccount
+20:29:32.034 [main] INFO  testCases.TC001_AccntRegTest - Clicked on registerlink
+20:29:32.060 [main] INFO  testCases.TC001_AccntRegTest - Providing customer details
+20:29:41.624 [main] INFO  testCases.TC001_AccntRegTest - Validating expected msg
+21:00:56.468 [main] INFO  testCases.TC001_AccntRegTest - *** Starting the automation***
+21:00:58.510 [main] INFO  testCases.TC001_AccntRegTest - Clicked on Myaccount
+21:00:59.601 [main] INFO  testCases.TC001_AccntRegTest - Clicked on registerlink
+21:00:59.613 [main] INFO  testCases.TC001_AccntRegTest - Providing customer details
+21:01:07.989 [main] INFO  testCases.TC001_AccntRegTest - Validating expected msg
+21:01:38.640 [main] INFO  testCases.TC001_AccntRegTest - *** Starting the automation***
+21:01:39.123 [main] INFO  testCases.TC001_AccntRegTest - Clicked on Myaccount
+21:01:39.910 [main] INFO  testCases.TC001_AccntRegTest - Clicked on registerlink
+21:01:39.913 [main] INFO  testCases.TC001_AccntRegTest - Providing customer details
+21:01:42.807 [main] INFO  testCases.TC001_AccntRegTest - Validating expected msg
+21:11:35.930 [TestNG-tests-1] INFO  testCases.TC001_AccntRegTest - *** Starting the automation***
+21:11:38.864 [TestNG-tests-1] INFO  testCases.TC001_AccntRegTest - Clicked on Myaccount
+21:11:40.126 [TestNG-tests-1] INFO  testCases.TC001_AccntRegTest - Clicked on registerlink
+21:11:40.130 [TestNG-tests-1] INFO  testCases.TC001_AccntRegTest - Providing customer details
+21:11:43.009 [TestNG-tests-2] INFO  testCases.TC001_AccntRegTest - *** Starting the automation***
+21:11:44.277 [TestNG-tests-2] INFO  testCases.TC001_AccntRegTest - Clicked on Myaccount
+21:11:45.405 [TestNG-tests-1] INFO  testCases.TC001_AccntRegTest - Validating expected msg
+21:11:48.777 [TestNG-tests-2] INFO  testCases.TC001_AccntRegTest - Clicked on registerlink
+21:11:48.778 [TestNG-tests-2] INFO  testCases.TC001_AccntRegTest - Providing customer details
+21:11:52.327 [TestNG-tests-2] INFO  testCases.TC001_AccntRegTest - Validating expected msg
